@@ -8,4 +8,6 @@
 
 * [Указатель источников по сайту census1710.narod.ru](/census1710.md)
 
+* [Указатель источников по сайтам sharipov.narod.ru, ysharipov.ru](/ysharipov.md)
+
 * [Указатель источников собранных Ждановских С.В.](/zsv.md)
